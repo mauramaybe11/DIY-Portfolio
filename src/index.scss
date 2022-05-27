@@ -1,0 +1,79 @@
+$theme-colors: ("primary": blanchedalmond,
+    "secondary": #78a0a0,
+);
+@import '~bootstrap/scss/bootstrap';
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
+.nav-bar {
+    background: rgb(9, 67, 61);
+    color: bisque;
+    font-family: 'Gloria Hallelujah', cursive;
+    padding-left: 25px;
+}
+
+.slug {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+body {
+    background-color: salmon;
+}
+
+.btn:hover {
+    color: blanchedalmond;
+    background-color: rgb(9, 67, 61);
+
+}
+
+.btn {
+    font-family: 'Gloria Hallelujah',
+    cursive;
+}
+
+.projects{
+    max-width: 60%;
+    max-height: 60%;
+    background-color:rgb(230, 182, 165);
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.slug-side {
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10vh;
+    column-gap: 10vh;
+}
+
+.modal-home {
+    color: bisque;
+    background: rgb(9, 67, 61);
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: x-large;
+}
+
+.modal-home-button {
+    background: #ffebcd;
+    color: teal;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-weight: 900;
+    font-size: xx-large;
+}
+
+.modal-delete {
+    color: bisque;
+    background: rgb(9, 67, 61);
+    font-family: 'Gloria Hallelujah',
+        cursive;
+    font-size: x-large;
+    text-align: center;
+}
+
+.modal-home-header {
+    align-items: center;
+}
