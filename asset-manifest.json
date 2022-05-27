@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/DIY-Portfolio/static/css/main.06c339fc.chunk.css",
-    "main.js": "/DIY-Portfolio/static/js/main.3bad39ad.chunk.js",
-    "main.js.map": "/DIY-Portfolio/static/js/main.3bad39ad.chunk.js.map",
-    "runtime-main.js": "/DIY-Portfolio/static/js/runtime-main.ff8b3215.js",
-    "runtime-main.js.map": "/DIY-Portfolio/static/js/runtime-main.ff8b3215.js.map",
-    "static/js/2.9fa7303b.chunk.js": "/DIY-Portfolio/static/js/2.9fa7303b.chunk.js",
-    "static/js/2.9fa7303b.chunk.js.map": "/DIY-Portfolio/static/js/2.9fa7303b.chunk.js.map",
-    "index.html": "/DIY-Portfolio/index.html",
-    "static/css/main.06c339fc.chunk.css.map": "/DIY-Portfolio/static/css/main.06c339fc.chunk.css.map",
-    "static/js/2.9fa7303b.chunk.js.LICENSE.txt": "/DIY-Portfolio/static/js/2.9fa7303b.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.06c339fc.chunk.css",
+    "main.js": "/static/js/main.b44a4601.chunk.js",
+    "main.js.map": "/static/js/main.b44a4601.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4e092abf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4e092abf.js.map",
+    "static/js/2.9fa7303b.chunk.js": "/static/js/2.9fa7303b.chunk.js",
+    "static/js/2.9fa7303b.chunk.js.map": "/static/js/2.9fa7303b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.06c339fc.chunk.css.map": "/static/css/main.06c339fc.chunk.css.map",
+    "static/js/2.9fa7303b.chunk.js.LICENSE.txt": "/static/js/2.9fa7303b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ff8b3215.js",
+    "static/js/runtime-main.4e092abf.js",
     "static/js/2.9fa7303b.chunk.js",
     "static/css/main.06c339fc.chunk.css",
-    "static/js/main.3bad39ad.chunk.js"
+    "static/js/main.b44a4601.chunk.js"
   ]
 }
