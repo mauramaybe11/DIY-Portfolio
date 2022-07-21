@@ -16,8 +16,19 @@ $theme-colors: ("primary": blanchedalmond,
     max-height: 50%;
 }
 
+.contact-page {
+    color: rgb(9, 67, 61);
+    font-family: 'Gloria Hallelujah',
+        cursive;
+    font-size: x-large;
+    background-image: url(https://i.imgur.com/68IXzHA.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 body {
-    background-color: salmon;
+    background-color: rgb(230, 182, 165);
 }
 
 .btn:hover {
@@ -39,6 +50,18 @@ body {
     margin-right: auto;
     padding-top: 30px;
     padding-bottom: 30px;
+    color: rgb(9, 67, 61);
+    font-family: 'Gloria Hallelujah',
+    cursive;
+    font-size: x-large;
+}
+
+.modal-home-project {
+    color: bisque;
+    background: rgb(9, 67, 61);
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: x-large;
+    text-align: left;
 }
 
 .slug-side {
@@ -48,6 +71,7 @@ body {
     margin-right: auto;
     padding-top: 10vh;
     column-gap: 10vh;
+    width: 90vw;
 }
 
 .modal-home {
@@ -76,4 +100,39 @@ body {
 
 .modal-home-header {
     align-items: center;
+}
+
+.contact {
+    color: rgb(9, 67, 61);
+    font-family: 'Gloria Hallelujah',
+    cursive;
+    font-size: x-large;
+}
+
+.contact-page {
+    color: rgb(9, 67, 61);
+    font-family: 'Gloria Hallelujah',
+        cursive;
+    font-size: x-large;
+    background-image: url(https://i.imgur.com/68IXzHA.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 100vh;
+}
+
+.modal-home-button-contact {
+    float: left;
+    background: #ffebcd;
+    color: teal;
+    font-family: 'Gloria Hallelujah',
+    cursive;
+    font-weight: 900;
+    font-size: xx-large;
+    margin-left: 20px;
+}
+
+.contactz {
+    text-align: center;
 }
